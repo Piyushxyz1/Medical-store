@@ -1,0 +1,16 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+
+:root {
+  --rg-gradient-a: linear-gradient(
+    var(--rg-gradient-angle, 96deg),
+    #ffccf8 0%,
+    #ffc0ad 26.85%,
+    #ffd78a 59.66%,
+    #fef571 100%
+  );
+}
+
+
+
