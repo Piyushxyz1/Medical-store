@@ -19,7 +19,7 @@ const Navbar = () => {
               <div className='flex items-center gap-2'>
                 <ShoppingCartIcon />
                 <span className='font-semibold font-mono tracking-widest text-2xl bg-clip-text text-transparent bg-linear-to-r from-primary to-secondary'>
-                  MED-STORE
+                  MEDICAL-STORE
                 </span>
 
               </div>
